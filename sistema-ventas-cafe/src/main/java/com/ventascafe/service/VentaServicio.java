@@ -1,4 +1,4 @@
-package com.ventascafe.servicio;
+package com.ventascafe.service;
 
 import com.ventascafe.modelo.Cafe;
 import com.ventascafe.modelo.Cliente;

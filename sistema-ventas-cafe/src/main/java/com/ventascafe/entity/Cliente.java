@@ -1,4 +1,4 @@
-package com.ventascafe.modelo;
+package com.ventascafe.entity;
 
 import io.quarkus.hibernate.orm.panache.PanacheEntity;
 import jakarta.persistence.Column;

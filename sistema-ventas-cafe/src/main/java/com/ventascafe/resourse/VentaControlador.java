@@ -1,7 +1,8 @@
 package com.ventascafe.controlador;
 
 import com.ventascafe.modelo.Venta;
-import com.ventascafe.servicio.VentaServicio;
+import com.ventascafe.service.VentaServicio;
+
 import jakarta.inject.Inject;
 import jakarta.validation.Valid;
 import jakarta.ws.rs.*;
