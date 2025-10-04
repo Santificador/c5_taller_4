@@ -11,3 +11,7 @@ Hoy trabajé en la configuración del proyecto y aprendí a usar Git desde Visua
 - Registrar facturas
 - Calcular totales
 - Gestionar estados (EMITIDA/PAGADA/ANULADA)
+
+## En fecha 04/10 "adjunte documentación de la app y también adjunte la base de datos, utilice MYSQL debido a que un taller anterior ya nos los habían mostrado, si bien falta mucha practica, ya conozco un poco del entorno"
+
+
